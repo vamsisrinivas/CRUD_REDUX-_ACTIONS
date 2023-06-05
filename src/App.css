@@ -6,6 +6,26 @@
   height: 40vmin;
   pointer-events: none;
 }
+.header{
+  width: 100%;
+  background-color: blue;
+  color: #fff;
+  padding: 1%;
+  text-align: left;
+ 
+}
+.link{
+justify-content: space-between;
+margin: 10px;
+}
+a{
+  text-decoration: none !important;
+  color: white !important;
+  padding: 2px;
+}
+.card-header{
+  text-align: center;
+}
 
 @media (prefers-reduced-motion: no-preference) {
   .App-logo {

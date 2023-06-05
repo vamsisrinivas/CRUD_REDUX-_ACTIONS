@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "id": 3,
+      "name": "yaswanthsai",
+      "email": "sai.burri@gmail.com",
+      "phone": "994998688",
+      "role": "Testing"
+    },
+    {
+      "id": 4,
+      "name": "jayasree",
+      "email": "jaya.burri@gmail.com",
+      "phone": "994998688",
+      "role": "HR"
+    },
+    {
+      "id": 6,
+      "name": "vamsi",
+      "role": "MERN Stack",
+      "email": "vamsi.burri@gmail.com",
+      "phone": "994998688"
+    },
+    {
+      "name": "Teja",
+      "email": "teja@gmail.com",
+      "phone": "8812233457",
+      "role": "staff",
+      "id": 8
+    }
+  ]
+}
